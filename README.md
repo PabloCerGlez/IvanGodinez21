@@ -2,7 +2,7 @@
 #### ¡Estoy interesado en aprender lenguajes de programación y mejorar mis habilidades basicas!.
 Actualmente estudio Ingeniería de Software y voy aprendiendo poco a poco.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ivangodinez21&label=Profile%20views&color=0e75b6&style=flat" alt="ivangodinez21" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ivangodinez21&label=Profile%20views&color=0e75b6&style=flat-square&color=brightgreen" alt="ivangodinez21" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivangodinez21" alt="ivangodinez21" /></a> </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivangodinez21&show_icons=true&locale=en&layout=compact" alt="ivangodinez21" /></p>
