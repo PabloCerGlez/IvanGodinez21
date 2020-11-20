@@ -1,5 +1,5 @@
 ### Hola, sé bienvenido a mi perfil, mi nombre es Iván.
-#### ¡Estoy interesado en aprender lenguajes de programación y mejorar mis habilidades basicas!.
+#### ¡Estoy interesado en aprender lenguajes de programación y mejorar mis habilidades basicas!
 Actualmente estudio Ingeniería de Software y voy aprendiendo poco a poco.
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ivangodinez21&label=Profile%20views&color=0e75b6&style=flat-square&color=brightgreen" alt="ivangodinez21" /> </p>
