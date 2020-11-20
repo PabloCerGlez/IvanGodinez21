@@ -12,7 +12,7 @@ Actualmente estudio Ingeniería de Software y voy aprendiendo poco a poco.
 <h2 align="center">Uso de lenguajes de programación</h2>
 <p align="center">Basado en mis repositorios de GitHub</p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ivangodinez21&show_icons=true&locale=en&layout=compact" alt="ivangodinez21" /></p>
-<h2 align="center">Lenguajes & herramientas:</h2>
+<h2 align="center">Lenguajes y herramientas</h2>
 <p align="center">Cosas que utilizo muy seguido</p>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
